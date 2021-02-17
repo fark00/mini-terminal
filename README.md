@@ -2,7 +2,7 @@
 ## In this project, a **terminal** with limited capabilities has been implemented
 
 
-**Capabilities:**
+### **Capabilities:**
 
 * User managment
 
@@ -53,4 +53,5 @@
 * help <commandname>
   
   
- requirement: I work with visual studio 2019
+ ### requirement: 
+ I work with visual studio 2019
