@@ -4,7 +4,7 @@ In this project, a terminal with limited capabilities has been implemented
 
 **Capabilities:**
 
-_ User managment
+* User managment
 
 _ Check password strength
 
