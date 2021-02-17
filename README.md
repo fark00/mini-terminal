@@ -1,56 +1,56 @@
 # mini-terminal
-In this project, a terminal with limited capabilities has been implemented
+## In this project, a **terminal** with limited capabilities has been implemented
 
 
 **Capabilities:**
 
 * User managment
 
-_ Check password strength
+* Check password strength
 
-_ Manage the deadline for working with the system per user
+* Manage the deadline for working with the system per user
 
-ـ Manage user access level
+* Manage user access level
 
-ـ History of using invalid commands
+* History of using invalid commands
 
-_ su <username>
+* su <username>
   
-_ passwd
+* passwd
 
-_ passwd -l <time> <username> (root)
+* passwd -l <time> <username> (root)
   
-_ create user (root)
+* create user (root)
 
-_ chgr <username> (root)
+* chgr <username> (root)
   
-_ cd
+* cd
   
-_ pwd
+* pwd
 
-_ mkdir
+* mkdir
 
-_ > (to write inside a file, ex: blah>filename or filename1>filename2)
+* > (to write inside a file, ex: blah>filename or filename1>filename2)
 
-_ >> (to append inside a file, ex: blah>filename or filename1>filename2)
+* >> (to append inside a file, ex: blah>filename or filename1>filename2)
 
-_ cat
+* cat
 
-_ rm
+* rm
 
-_ cp
+* cp
 
-_ mv
+* mv
 
-_ ls
+* ls
 
-_ exif <filename>
+* exif <filename>
   
-_ wc <filename>
+* wc <filename>
   
-_ diff <filename1> <filename2>
+* diff <filename1> <filename2>
   
-_ help <commandname>
+* help <commandname>
   
   
- requirement: __windows__ :)
+ requirement: I work with visual studio 2019
