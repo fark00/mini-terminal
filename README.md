@@ -4,6 +4,7 @@
 
 ### **Capabilities:**
 
+
 * User managment
 
 * Check password strength
@@ -54,4 +55,15 @@
   
   
  ### requirement: 
+ 
+ 
  I work with visual studio 2019
+
+
+## Support:
+
+
+Contact me at:
+farzanehkoohestani2000@gmail.com
+telegram id: 
+@farzaneh_koohestani
