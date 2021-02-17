@@ -30,9 +30,9 @@
 
 * mkdir
 
-* > (to write inside a file, ex: blah>filename or filename1>filename2)
+*  > (to write inside a file, ex: blah>filename or filename1>filename2)
 
-* >> (to append inside a file, ex: blah>filename or filename1>filename2)
+*  >> (to append inside a file, ex: blah>filename or filename1>filename2)
 
 * cat
 
