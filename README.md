@@ -15,7 +15,7 @@
 
 * History of using invalid commands
 
-* su <username>
+* su \<username>
   
 * passwd
 
@@ -23,7 +23,7 @@
   
 * create user (root)
 
-* chgr <username> (root)
+* chgr \<username> (root)
   
 * cd
   
@@ -45,13 +45,13 @@
 
 * ls
 
-* exif <filename>
+* exif \<filename>
   
-* wc <filename>
+* wc \<filename>
   
-* diff <filename1> <filename2>
+* diff \<filename1> \<filename2>
   
-* help <commandname>
+* help \<commandname>
   
   
  ### requirement: 
@@ -63,12 +63,8 @@
 ## Support:
 
 
-***Contact me @:
+***Contact me @:***
 
-e-mail:
+e-mail: farzanehkoohestani2000@gmail.com
 
-farzanehkoohestani2000@gmail.com
-
-telegram id: 
-
-@farzaneh_koohestani
+telegram id: @farzaneh_koohestani
