@@ -75,7 +75,7 @@ telegram id:
 * @farzaneh_koohestani
 
 ## License
-[MIT](https://github.com/fark00/mini-terminal/main/LICENSE)
+[MIT](https://github.com/fark00/mini-terminal/blob/main/LICENSE)
 &#0169;
 [Farzaneh Koohestani](https://github.com/fark00)
 
