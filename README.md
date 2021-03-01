@@ -72,7 +72,7 @@ e-mail:
 
 telegram id: 
 
-* @farzaneh_koohestani
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
 
 ## License
 [MIT](https://github.com/fark00/mini-terminal/blob/main/LICENSE)
