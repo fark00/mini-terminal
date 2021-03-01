@@ -66,6 +66,17 @@
 
 ***Contact me @:***
 
-e-mail: farzanehkoohestani2000@gmail.com
+e-mail: 
 
-telegram id: @farzaneh_koohestani
+* farzanehkoohestani2000@gmail.com
+
+telegram id: 
+
+* @farzaneh_koohestani
+
+## License
+[MIT](https://github.com/fark00/mini-terminal/main/LICENSE)
+&#0169;
+[Farzaneh Koohestani](https://github.com/fark00)
+
+
