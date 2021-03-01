@@ -1,6 +1,5 @@
 # mini-terminal
 ## In this project, a **terminal** with limited capabilities has been implemented.
-(Project of IUT basic programming course for C)
 
 
 ### **Capabilities:**
