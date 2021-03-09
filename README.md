@@ -2,7 +2,7 @@
 ## In this project, a **terminal** with limited capabilities has been implemented.
 
 
-### **Capabilities:**
+###  **Capabilities:**
 
 
 * User managment
