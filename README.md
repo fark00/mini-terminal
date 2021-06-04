@@ -60,22 +60,20 @@
  I work with visual studio 2019
 
 
-## Support:
+## Support
 
+**Contact me @:**
 
-***Contact me @:***
-
-e-mail: 
+e-mail:
 
 * farzanehkoohestani2000@gmail.com
 
-telegram id: 
+Telegram id:
 
 * [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
 
 ## License
-[MIT](https://github.com/fark00/mini-terminal/blob/main/LICENSE)
-&#0169;
-[Farzaneh Koohestani](https://github.com/fark00)
-
+[MIT](https://github.com/farkoo/CV-with-Matlab/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
 
